@@ -1,0 +1,14 @@
+# Datos y respaldos de bases de datos
+*.csv
+*.bak
+*.mdf
+*.ldf
+
+# Archivos de SSMS y temporales
+*.ssmssln
+*.suo
+.vs/
+
+# Windows
+Thumbs.db
+Desktop.ini
